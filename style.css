@@ -1,21 +1,7 @@
-h1 {
-    color: orangered;
-    font-size: 100px;
-    background-color: rgb(182, 35, 35);
-    width: 600px;
-    font-family: roboto;
-    font-weight: 600;
+#footer.brown.black {
+    color: rgb(42, 22, 214);
 }
-div {
-    width: 50%;
-    max-width: 500px;
-    background-color: rgb(152, 214, 124); 
-    border: 10px solid black;
-    font-family: Roboto;
-    font-weight: 100;
-}
-textarea {
-    background-color: lightblue;
-    width: 300px;
-    height: 100px;
+
+#footer.brown {
+    color: red;
 }
